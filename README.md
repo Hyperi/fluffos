@@ -68,6 +68,7 @@ Projects Using FluffOS
 
 -   [ThresholdRPG](https://wiki.thresholdrpg.com/)
 -   [SWmud](http://www.swmud.org/)
+-   [Icesus](https://www.icesus.org/)
 
 Donations
 ---------
